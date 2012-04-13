@@ -1,1 +1,2 @@
-assert 2==2
+def twonumberadd(first, second):
+  return first + second
